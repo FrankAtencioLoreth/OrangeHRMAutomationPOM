@@ -1,0 +1,4 @@
+.idea/
+Locators/**/*.pyc
+Pages/**/*.pyc
+Tests/**/*.pyc
