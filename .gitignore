@@ -1,4 +1,2 @@
 .idea/
-Locators/**/*.pyc
-Pages/**/*.pyc
-Tests/**/*.pyc
+__pycache__/
